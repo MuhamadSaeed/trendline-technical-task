@@ -58,3 +58,11 @@ After that, open your browser at:
 http://localhost:3000
 
 ---
+
+## Deployment
+
+The project is deployed as a Live Demo using **Vercel**.
+
+Live Demo: https://trendline-technical-task.vercel.app/
+
+---

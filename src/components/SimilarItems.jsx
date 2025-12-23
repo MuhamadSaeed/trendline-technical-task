@@ -6,8 +6,8 @@ import { ShoppingBag, Star } from "lucide-react";
 
 export default function SimilarItems() {
   return (
-    <section className="max-w-7xl mt-20">
-      <div className="max-w-[1200px] mx-auto px-4">
+    <section className="w-full mt-20">
+      <div className="max-w-7xl mx-auto px-4">
 
         {/* Title */}
         <div className="mb-8">

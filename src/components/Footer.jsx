@@ -10,7 +10,7 @@ import {
 
 export default function Footer() {
   return (
-    <footer className="max-w-7xl mt-24">
+    <footer className="w-full mt-24">
       <div className="relative ">
 
         {/* Background image */}
@@ -23,7 +23,7 @@ export default function Footer() {
         <div className="absolute inset-0 bg-gradient-to-r from-[#2F2922]/90 to-[#4A4238]/85" />
 
         {/* Content */}
-        <div className="relative max-w-[1200px] mx-auto px-6 py-16 text-white">
+        <div className="relative max-w-7xl mx-auto px-6 py-16 text-white">
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-12">
 
             {/* Logo & Description */}
